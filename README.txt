@@ -1,4 +1,4 @@
-编译前将osg库加入当前根目录
+缂栬瘧鍓嶅皢osg搴撳姞鍏ュ綋鍓嶆牴鐩綍
 
 osg->include
    ->lib
